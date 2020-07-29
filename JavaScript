@@ -1,0 +1,2 @@
+const name="忍者わんこ”
+console.log(name);
